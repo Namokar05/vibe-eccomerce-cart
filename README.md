@@ -16,6 +16,10 @@ A modern, full-stack shopping cart application built for Vibe Commerce internshi
 ### Order Receipt
 ![receipt](https://github.com/user-attachments/assets/a916def6-84a0-4a77-ad2e-7b0c9c014bc2)
 
+## 📹 Demo Video
+
+[Link to YouTube Demo Video: https://youtu.be/12HphbV5kc4]
+
 ## 🚀 Features
 
 ### Core Features
@@ -362,11 +366,5 @@ npm run build
 cd backend
 NODE_ENV=production npm start
 ```
-
-## 📹 Demo Video
-
-[Link to YouTube Demo Video: https://youtu.be/12HphbV5kc4]
-
 ---
 Built by Namokar for Vibe Commerce Internship Assignment
-
