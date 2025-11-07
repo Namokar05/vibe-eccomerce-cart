@@ -1,0 +1,118 @@
+# ===============================
+# Vibe Commerce - Root .gitignore
+# ===============================
+
+# --------------------------------
+# Dependencies
+# --------------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# --------------------------------
+# Environment Variables
+# (IMPORTANT: Never commit these!)
+# --------------------------------
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+*.env
+
+# Include frontend and backend envs
+frontend/.env
+frontend/.env.local
+backend/.env
+backend/.env.local
+
+# --------------------------------
+# Build outputs
+# --------------------------------
+build/
+dist/
+out/
+
+# --------------------------------
+# Logs
+# --------------------------------
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# --------------------------------
+# Operating System Files
+# --------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# --------------------------------
+# IDE and Editor Files
+# --------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# --------------------------------
+# Testing
+# --------------------------------
+coverage/
+.nyc_output/
+*.coverage
+.cache
+
+# --------------------------------
+# Temporary files
+# --------------------------------
+*.tmp
+*.temp
+temp/
+tmp/
+
+# --------------------------------
+# Mac files
+# --------------------------------
+.AppleDouble
+.LSOverride
+
+# --------------------------------
+# Windows files
+# --------------------------------
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# --------------------------------
+# Optional npm & eslint cache
+# --------------------------------
+.npm
+.eslintcache
+
+# --------------------------------
+# Misc
+# --------------------------------
+.sass-cache/
+connect.lock
+typings/
