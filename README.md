@@ -368,7 +368,8 @@ NODE_ENV=production npm start
 [Link to Loom/YouTube Demo Video]
 
 ---
+Built by Namokar for Vibe Commerce Internship Assignment
 
-**Built by Namokar for Vibe Commerce Internship Assignment**
-**Repository**: [https://github.com/Namokar05/vibe-eccomerce-cart]
-**Video**: [Demo Video Link]
+Repository: [https://github.com/Namokar05/vibe-eccomerce-cart]
+Video: [Demo Video Link]
+
