@@ -370,6 +370,3 @@ NODE_ENV=production npm start
 ---
 Built by Namokar for Vibe Commerce Internship Assignment
 
-Repository: [https://github.com/Namokar05/vibe-eccomerce-cart]
-Video: [Demo Video Link]
-
