@@ -365,7 +365,7 @@ NODE_ENV=production npm start
 
 ## 📹 Demo Video
 
-[Link to Loom/YouTube Demo Video]
+[Link to YouTube Demo Video: https://youtu.be/12HphbV5kc4]
 
 ---
 Built by Namokar for Vibe Commerce Internship Assignment
